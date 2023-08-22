@@ -1,0 +1,41 @@
+<?xml  version="1.0" encoding="ISO-8859-1"?>
+<PERFORMANCE>
+<INDICATOR>
+  <INDICATOR_SEQ>28445</INDICATOR_SEQ>
+  <PARENT_SEQ></PARENT_SEQ>
+  <AGENCY_NAME>Metro-North Railroad</AGENCY_NAME>
+  <INDICATOR_NAME>On-Time Performance (West of Hudson)</INDICATOR_NAME>
+  <DESCRIPTION>Percent of commuter trains that arrive at their destinations within 5 minutes and 59 seconds of the scheduled time. West of Hudson services include the Pascack Valley and Port Jervis lines. Metro-North Railroad contracts with New Jersey Transit to operate service on these lines.
+</DESCRIPTION>
+  <PERIOD_YEAR>2008</PERIOD_YEAR>
+  <PERIOD_MONTH>1</PERIOD_MONTH>
+  <CATEGORY>Service Indicators</CATEGORY>
+  <FREQUENCY>M</FREQUENCY>
+  <DESIRED_CHANGE>U</DESIRED_CHANGE>
+  <INDICATOR_UNIT>%</INDICATOR_UNIT>
+  <DECIMAL_PLACES>1</DECIMAL_PLACES>
+  <YTD_TARGET>95.00</YTD_TARGET>
+  <YTD_ACTUAL>96.90</YTD_ACTUAL>
+  <MONTHLY_TARGET>95.00</MONTHLY_TARGET>
+  <MONTHLY_ACTUAL>96.90</MONTHLY_ACTUAL>
+</INDICATOR>
+<INDICATOR>
+  <INDICATOR_SEQ>28445</INDICATOR_SEQ>
+  <PARENT_SEQ></PARENT_SEQ>
+  <AGENCY_NAME>Metro-North Railroad</AGENCY_NAME>
+  <INDICATOR_NAME>On-Time Performance (West of Hudson)</INDICATOR_NAME>
+  <DESCRIPTION>Percent of commuter trains that arrive at their destinations within 5 minutes and 59 seconds of the scheduled time. West of Hudson services include the Pascack Valley and Port Jervis lines. Metro-North Railroad contracts with New Jersey Transit to operate service on these lines.
+</DESCRIPTION>
+  <PERIOD_YEAR>2008</PERIOD_YEAR>
+  <PERIOD_MONTH>2</PERIOD_MONTH>
+  <CATEGORY>Service Indicators</CATEGORY>
+  <FREQUENCY>M</FREQUENCY>
+  <DESIRED_CHANGE>U</DESIRED_CHANGE>
+  <INDICATOR_UNIT>%</INDICATOR_UNIT>
+  <DECIMAL_PLACES>1</DECIMAL_PLACES>
+  <YTD_TARGET>95.00</YTD_TARGET>
+  <YTD_ACTUAL>96.00</YTD_ACTUAL>
+  <MONTHLY_TARGET>95.00</MONTHLY_TARGET>
+  <MONTHLY_ACTUAL>95.00</MONTHLY_ACTUAL>
+</INDICATOR>
+</PERFORMANCE>
