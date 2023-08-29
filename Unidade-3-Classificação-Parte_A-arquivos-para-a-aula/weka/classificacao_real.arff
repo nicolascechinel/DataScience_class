@@ -1,0 +1,25 @@
+@relation classificao_real
+
+@attribute aspecto {sol, nublado, chuva}
+@attribute temperatura real
+@attribute humidade real
+@attribute vento {forte, fraco}
+@attribute jogo {s, n}
+
+@data
+sol,30.0,85.0,fraco,n
+sol,33.0,80.0,forte,n 
+nublado,32.0,90.0,fraco,s
+chuva,23.0,87.0,fraco,s
+chuva,15.0,60.0,fraco,s
+chuva,17.0,90.0,forte,n
+nublado,14.0,84.0,forte,s
+sol,21.0,82.0,fraco,n
+sol,18.0,65.0,fraco,s
+chuva,20.0,63.0,fraco,s
+sol,24.0,67.0,forte,s
+nublado,19.0,83.0,forte,s
+nublado,29.0,69.0,fraco,s
+chuva,20.0,91.0,forte,n
+
+
