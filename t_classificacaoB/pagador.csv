@@ -1,0 +1,11 @@
+ID,imposto de renda,estado civil,renda,mau pagador
+1,s,solteiro,>75,n
+2,n,casado,>75,n
+3,n,solteiro,<=75,n
+4,s,casado,>75,n
+5,n,separado,>75,s
+6,n,casado,<=75,n
+7,s,separado,>75,n
+8,n,solteiro,>75,s
+9,n,casado,<=75,n
+10,n,solteiro,>75,s

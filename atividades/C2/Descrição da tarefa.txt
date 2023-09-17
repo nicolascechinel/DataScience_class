@@ -1,0 +1,1 @@
+Com base no exemplo da Comissão Eleitoral Federal dos Estados Unidos apresentado em aula elabore uma análise a partir de um conjunto de dados diferente que deve obrigatoriamente apresentar o resultado das análises na forma de gráficos.
