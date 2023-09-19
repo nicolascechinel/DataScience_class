@@ -1,0 +1,12 @@
+@relation 'cluster'
+
+@attribute altura real
+@attribute peso real
+
+@data
+180,79
+175,75
+170,70
+167,63
+180,71
+165,60

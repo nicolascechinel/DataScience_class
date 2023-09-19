@@ -1,0 +1,8 @@
+@relation 'cluster'
+@attribute X1 real
+@attribute X2 real
+@data
+5,3
+-1,1
+1,-2
+-3,-2
