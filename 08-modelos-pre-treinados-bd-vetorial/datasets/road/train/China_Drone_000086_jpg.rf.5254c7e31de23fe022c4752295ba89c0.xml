@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>China_Drone_000086_jpg.rf.5254c7e31de23fe022c4752295ba89c0.jpg</filename>
+	<path>China_Drone_000086_jpg.rf.5254c7e31de23fe022c4752295ba89c0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>485</xmin>
+			<xmax>592</xmax>
+			<ymin>174</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>
